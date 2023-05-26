@@ -5,6 +5,12 @@ const Nav = () => {
       <button className="logo">
         <img src={instagram} alt="logo" />
       </button>
+          <input type="text" className="search" placeholder="seacrch" />
+          <span className="nav-links">
+              <button>
+                  <i className="fas fa-home" />
+              </button>
+          </span>
     </nav>
   );
 };
