@@ -188,7 +188,7 @@ nav {
   background-color: #890000;
   color: #fff;
   border: 1px solid #c8c8c8;
-  transform: scale(1.5);
+  transform: scale(1);
 }
 
 .delete-button:hover {
